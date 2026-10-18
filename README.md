@@ -46,6 +46,10 @@ available to Claude Code.
 `~/workspace` Drupal development workspace: agents, components, demos, dev, docs, forked, libraries, modules,
 products, profiles, projects, recipes, sandboxes, skills, test, themes.
 
+**Avatars** (`workspace-avatar`): create and manage talking AI avatars in the `~/workspace/avatars`
+folder on DDEV: build the avatar app, add characters with free VRM bodies, give each one its own Claude
+Code agent, and set up free Piper or browser voices (ElevenLabs on request).
+
 ## Skills
 
 - `webship-patches` — the `webship/patches` Composer plugin controls (allowlist, wildcard ignore,
